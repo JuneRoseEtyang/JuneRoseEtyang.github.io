@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(241, 244, 245);
+  }
+  h1 {
+    color: rgb(13, 13, 26);
+  }
+  p {
+    color:black;
+  }
+  #container{
+    margin:0px;
+    padding:0px;
+    width=100%;
+    height:450px;
+  }
+  #menu{
+    width:100%;
+    background-color:darkslateblue;
+    height:60px;
+    padding: 15px;
+  }
+  #menu ul{
+    list-style-type: none;
+    list
+  }
+  #menu li{
+    display: inline;
+  
+  }
+  #menu li a{
+    color:black;
+    font-family: 'Times New Roman';
+    font-size:30px;
+    text-align-last: justify;
+    text-emphasis-position: right;
+  }
+  #footer{
+    width:100%;
+    height:50px;
+    background-color:darkslateblue;
+    clear:both;
+    text-align: center;
+    color:black;
+    font-size: 28px;
+  }
